@@ -1,17 +1,20 @@
 # Welcome to My M And A
-***
+Welcome to My M And A
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+The problem was that I didn't understand how to clean the data, 
+but I was able to do it anyway
 
 ## Description
-TODO - How have you solved the problem?
+I solved the problem with the help of a mentor, 
+a friend and also Google
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+You don't need to install anything
 
 ## Usage
-TODO - How does it work?
+It works easy
+
 ```
 ./my_project argument1 argument2
 ```
